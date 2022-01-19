@@ -1,0 +1,16 @@
+.posts-list{
+  max-width: 80%;
+  margin: 20px auto;
+  max-height: 90vh;
+  overflow-y: scroll;
+}
+.posts-item{
+  background-color: aliceblue;
+  margin-bottom: 2rem;
+  padding: 1.5rem 1rem;
+  box-shadow: 0 0 10px rgba(0 ,0 ,0 , 0.5);
+  border: 1px solid #efefef;
+}
+.posts-item h3{
+  margin-top: 0;
+}
